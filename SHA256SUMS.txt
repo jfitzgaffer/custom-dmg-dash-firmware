@@ -1,0 +1,3 @@
+ccf26e8a7db798cea53625dbe1a3536a2b872b877f8345811f3f15b0354c44d7  dash-firmware-1.0.16a-B4.bin
+9a34f1c9a7e0e5e93d32b481a812009bc50c25719b186cfd24db07a2b9f601e3  Dash Firmware Updater 1.0.16a.dmg
+0771ad3a5bba956a1571894f4dc5b6cb26ac0ea6e50007ee14ef8914c6c5bca1  Dash_DMX_Profiles.xlsx
